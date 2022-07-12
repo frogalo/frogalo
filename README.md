@@ -8,7 +8,7 @@
   <summary>☎️ contact me</summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
+    <h2 align="center">😎 you can find me on:</h2>
     <p align="center">
       <br/>
       <a href="https://pl.linkedin.com/in/jakub-urbański-9ab9a212b" target="blank"><img align="center"
