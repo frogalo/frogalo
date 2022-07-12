@@ -1,11 +1,11 @@
 <div align="center">
-<h4 align="center">computer science student at Polish-Japanese Academy of Information Technology in Warsaw</h4>
+<h4 align="center">I'm a computer science student at the Polish-Japanese Academy of Information Technology in Warsaw.</h4>
 </div>
 
 
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ CONTACT</summary>
 <div>
   <samp>
     <h2 align="center">😎 you can find me on:</h2>
@@ -28,38 +28,9 @@
 </div>
 </details>
 
-<details>
-  <summary>🧮 about</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
- 
-</div>
-</details>
 
-<details>
-  <summary>🌏 global</summary>
-<div>
-<h2 align="center"> learn something about me </h2>
-</div>
 
-</details>
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
+
+
 
