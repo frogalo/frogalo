@@ -8,7 +8,7 @@
 ### 🔧 Projects
 
 #### [Scholarhub]
-- A comprehensive university platform for thesis management
+- A comprehensive university platform for higher university online management
 - Technologies: MERN stack (MongoDB, Express.js, React, Node.js)
 - Features: Recruitment, online meetings, chat, grading system
 
