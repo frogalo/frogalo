@@ -1,36 +1,63 @@
 <div align="center">
-<h4 align="center">I'm a computer science student at the Polish-Japanese Academy of Information Technology in Warsaw.</h4>
+  <img src="your-profile-picture.jpg" alt="Profile Picture" height="150"/>
+  <h3>Hi there! 👋 I'm Jakub Urbański</h3>
+  <p>Computer Science graduate at the Polish-Japanese Academy of Information Technology in Warsaw</p>
 </div>
 
+---
+
+### 🔧 Projects
+
+#### [Scholarhub]
+- A comprehensive university platform for thesis management
+- Technologies: MERN stack (MongoDB, Express.js, React, Node.js)
+- Features: Recruitment, online meetings, chat, grading system
+
+#### [Portfolio Project] 
+- A personal portfolio project showcasing my skills and projects
+- Technologies: HTML, CSS, JavaScript
+- Features: Responsive design, project showcases, contact form
 
 
-<details>
-  <summary>☎️ CONTACT</summary>
-<div>
-  <samp>
-    <h2 align="center">😎 you can find me here:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://pl.linkedin.com/in/jakub-urbański-9ab9a212b" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-         <a href="ivo.urbanski@gmail.com?body=Sent%20from%20github" target="blank"><img align="center"
-         src="https://i.pinimg.com/736x/84/6a/03/846a03c6760f83f3a0e92609bca9cebf.jpg"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/kubaivo/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
+### 🛠️ Software Development Skills
+- JavaScript
+- React.js
+- Express.js
+- HTML, CSS
+- Node.js
+- REST APIs
+- Java
+- C#
+- PowerShell, bash
+
+### 🗃️ Database
+- SQL
+- MongoDB
+- MariaDB
+
+### 📊 Project Management and Methodologies
+- Scrum/Agile
+
+### 💻 System Administration and IT
+- Linux
+- Active Directory (AD)
+- VM, Containers
+
+### 🌐 Language Skills
+- Polish – native
+- English – C2
+- Spanish – B1
+
+### 🛠️ Tools
+- Adobe Photoshop
+- Adobe After Effects
+- Adobe Premiere Pro
+- Microsoft Office
 
 
 
+### 📫 Contact
 
-
-
-
+- LinkedIn: [Jakub Urbański](https://pl.linkedin.com/in/jakub-urbański-9ab9a212b)
+- Email: ivo.urbanski@gmail.com
+- Instagram: [kubaivo](https://www.instagram.com/kubaivo/)
