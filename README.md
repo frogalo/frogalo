@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="your-profile-picture.jpg" alt="Profile Picture" height="150"/>
   <h3>Hi there! 👋 I'm Jakub Urbański</h3>
   <p>Computer Science graduate at the Polish-Japanese Academy of Information Technology in Warsaw</p>
 </div>
