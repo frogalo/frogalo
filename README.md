@@ -52,8 +52,7 @@ Admin dashboard with Google/ADFS login. Aggregates user data from AD, Google, Sl
 Core backend for a scalable, plugin-based Discord ticketing system integrated with [robojs.dev](https://robojs.dev/). Communicates with multiple bots and manages guilds via MongoDB.  
 **Tech:** Node.js, MongoDB, Tailwind CSS, robojs  
 **Features:** Ticket creation, priority, and assignment, Guild-specific configuration and roles, JWT-based authentication & RBAC, Ticket dashboard with filters and analytics, MongoDB sharding, queues, rate limiting, webhooks, Health & error monitoring endpoints  
-Plugin [GitHub](https://github.com/frogalo/tickit-backend)  
-Backend [GitHub](https://github.com/frogalo/tickit-backend)  
+**GitHub:** [GitHub](https://github.com/frogalo/tickit-backend)  
 ---
 
 ### 🛠️ Skills
