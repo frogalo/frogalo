@@ -1,62 +1,76 @@
 <div align="center">
-  <h3>Hi there! 👋 I'm Jakub Urbański</h3>
-  <p>Computer Science graduate at the Polish-Japanese Academy of Information Technology in Warsaw</p>
+  <h2>Hi there! 👋 I'm Jakub Urbański</h2>
+  <p>💻 Computer Science graduate from the Polish-Japanese Academy of IT (PJATK)</p>
+  <p>🎓 Currently studying for my MSc at Warsaw University of Technology</p>
+  <p>🚀 IT Administrator | Full-stack Developer | Tech Enthusiast</p>
 </div>
 
 ---
 
-### 🔧 Projects
+### 🚧 Projects I've Built
 
-#### [Scholarhub]
-- A comprehensive university platform for higher university online management
-- Technologies: MERN stack (MongoDB, Express.js, React, Node.js)
-- Features: Recruitment, online meetings, chat, grading system
+#### 🔹 [TableMate]  
+Unified workplace resource management platform — book desks, rooms, parking, and order food or IT gear in one place.  
+**Tech:** Next.js, PostgreSQL
 
-#### [Portfolio Project] 
-- A personal portfolio project showcasing my skills and projects
-- Technologies: HTML, CSS, JavaScript
-- Features: Responsive design, project showcases, contact form
+#### 🔹 [Gramatyk]  
+Morphological analyzer for Polish. Transforms and parses data from morphology.com.pl using serverless proxies.  
+**Tech:** Next.js, Web Scraping, Serverless Functions
 
+#### 🔹 [uber-analytics]  
+Visualize Uber expenses and trends from uploaded files.  
+**Tech:** Next.js  
+**Features:** Expense graphs, file upload
 
-### 🛠️ Software Development Skills
-- JavaScript
-- React.js
-- Express.js
-- HTML, CSS
-- Node.js
-- REST APIs
-- Java
-- C#
-- PowerShell, bash
+#### 🔹 [Scholarhub]  
+A university management platform for recruitment, online classes, grading, and communication.  
+**Tech:** MERN Stack (MongoDB, Express.js, React, Node.js), Java Spring Boot
 
-### 🗃️ Database
-- SQL
-- MongoDB
-- MariaDB
+#### 🔹 [Eurochamps]  
+Vote live during Eurovision — supports mobile, sound previews, and drag-and-drop UI.  
+**Tech:** Next.js, PostgreSQL
 
-### 📊 Project Management and Methodologies
-- Scrum/Agile
+#### 🔹 [Portfolio Project]  
+A personal portfolio showcasing my work and skills.  
+**Tech:** HTML, CSS, JavaScript  
+**Features:** Responsive design, project gallery, contact form
 
-### 💻 System Administration and IT
-- Linux
-- Active Directory (AD)
-- VM, Containers
+#### 🔹 [IT Dashboard]  
+Admin dashboard with Google/ADFS login. Aggregates user data from AD, Google, Slack, and Miro for unified management.  
+**Tech:** React, Node.js
 
-### 🌐 Language Skills
-- Polish – native
-- English – C2
-- Spanish – B1
+---
 
-### 🛠️ Tools
-- Adobe Photoshop
-- Adobe After Effects
-- Adobe Premiere Pro
-- Microsoft Office
+### 🛠️ Skills
 
+**System Admin & IT:**  
+Linux, Active Directory, Proxmox, Google Workspace, Microsoft 365, Networking (TCP/IP, DNS, DHCP, VLANs), Docker, Endpoint Management, Security, Hardware Support
 
+**Development:**  
+JavaScript, React.js, Next.js, Node.js, REST APIs, Java, C#, Bash, PowerShell
 
-### 📫 Contact
+**Databases:**  
+SQL, PostgreSQL, MongoDB, MariaDB
 
-- LinkedIn: [Jakub Urbański](https://pl.linkedin.com/in/jakub-urbański-9ab9a212b)
-- Email: ivo.urbanski@gmail.com
-- Instagram: [kubaivo](https://www.instagram.com/kubaivo/)
+**Project Management:**  
+Scrum / Agile
+
+**Creative Software:**  
+Adobe Photoshop, After Effects, Premiere Pro
+
+---
+
+### 🌍 Languages
+
+- 🇵🇱 Polish – Native  
+- 🇬🇧 English – C2 (Fluent)  
+- 🇪🇸 Spanish – B1 (Intermediate)
+
+---
+
+### 📬 Let's Connect
+
+- 💼 [LinkedIn](https://pl.linkedin.com/in/jakub-urbański-9ab9a212b)  
+- 📧 ivo.urbanski@gmail.com  
+- 📸 [Instagram @kubaivo](https://www.instagram.com/kubaivo/)  
+- 💻 [GitHub @frogalo](https://github.com/frogalo)
