@@ -9,36 +9,51 @@
 
 ### 🚧 Projects I've Built
 
-#### 🔹 [TableMate]  
+#### 🔹 [TableMate](https://tablemate-gules.vercel.app/)  
 Unified workplace resource management platform — book desks, rooms, parking, and order food or IT gear in one place.  
-**Tech:** Next.js, PostgreSQL
+**Tech:** Next.js, PostgreSQL  
+**Features:** Booking system, resource ordering, responsive UI  
+[GitHub](https://github.com/frogalo/tablemate)  
 
-#### 🔹 [Gramatyk]  
+#### 🔹 [Gramatyk](https://gramatyk.vercel.app/)  
 Morphological analyzer for Polish. Transforms and parses data from morphology.com.pl using serverless proxies.  
-**Tech:** Next.js, Web Scraping, Serverless Functions
+**Tech:** Next.js, Web Scraping, Serverless Functions  
+**Features:** Word form analysis, API interface, data visualization  
+[GitHub](https://github.com/frogalo/gramatyk)  
 
-#### 🔹 [uber-analytics]  
+#### 🔹 [uber-analytics]
 Visualize Uber expenses and trends from uploaded files.  
 **Tech:** Next.js  
-**Features:** Expense graphs, file upload
+**Features:** Expense graphs, file upload, data parsing  
+[GitHub](https://github.com/frogalo/uber-analytics)  
 
-#### 🔹 [Scholarhub]  
+#### 🔹 [Scholarhub]
 A university management platform for recruitment, online classes, grading, and communication.  
-**Tech:** MERN Stack (MongoDB, Express.js, React, Node.js), Java Spring Boot
+**Tech:** MERN Stack (MongoDB, Express.js, React, Node.js), Java Spring Boot  
+**Features:** Class management, grading, messaging, user roles  
 
-#### 🔹 [Eurochamps]  
+#### 🔹 [Eurochamps]
 Vote live during Eurovision — supports mobile, sound previews, and drag-and-drop UI.  
-**Tech:** Next.js, PostgreSQL
+**Tech:** Next.js, PostgreSQL  
+**Features:** Real-time voting, mobile responsiveness, music previews  
+[GitHub](https://github.com/frogalo/eurochamps)  
 
-#### 🔹 [Portfolio Project]  
+#### 🔹 [Portfolio Project]
 A personal portfolio showcasing my work and skills.  
 **Tech:** HTML, CSS, JavaScript  
-**Features:** Responsive design, project gallery, contact form
+**Features:** Responsive design, project gallery, contact form  
 
-#### 🔹 [IT Dashboard]  
+#### 🔹 [IT Dashboard]
 Admin dashboard with Google/ADFS login. Aggregates user data from AD, Google, Slack, and Miro for unified management.  
-**Tech:** React, Node.js
+**Tech:** React, Node.js  
+**Features:** Centralized user data, secure login, role management  
 
+#### 🔹 [Tickit Plugin]
+Core backend for a scalable, plugin-based Discord ticketing system integrated with [robojs.dev](https://robojs.dev/). Communicates with multiple bots and manages guilds via MongoDB.  
+**Tech:** Node.js, MongoDB, Tailwind CSS, robojs  
+**Features:** Ticket creation, priority, and assignment, Guild-specific configuration and roles, JWT-based authentication & RBAC, Ticket dashboard with filters and analytics, MongoDB sharding, queues, rate limiting, webhooks, Health & error monitoring endpoints  
+Plugin [GitHub](https://github.com/frogalo/tickit-backend)  
+Backend [GitHub](https://github.com/frogalo/tickit-backend)  
 ---
 
 ### 🛠️ Skills
