@@ -15,12 +15,6 @@ Unified workplace resource management platform — book desks, rooms, parking, a
 **Features:** Booking system, resource ordering, responsive UI  
 [GitHub](https://github.com/frogalo/tablemate)  
 
-####🔹 [uber-analytics]
-Visualize Uber expenses and trends from uploaded files.
-Tech: Next.js
-Features: Expense graphs, file upload, data parsing
-[GitHub](https://github.com/frogalo/uber-analytics)  
-
 #### 🔹 [Gramatyk](https://gramatyk.vercel.app/)  
 Morphological analyzer for Polish. Transforms and parses data from morphology.com.pl using serverless proxies.  
 **Tech:** Next.js, Web Scraping, Serverless Functions  
