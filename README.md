@@ -20,6 +20,7 @@ Unified workplace resource management platform — book desks, rooms, parking, a
 A modern, full-stack habit tracker built with Next.js 15, MongoDB, and NextAuth. Track your habits with a beautiful dot calendar, color customization, and secure authentication.  
 **Tech:** Next.js, MongoDB, NextAuth, Tailwind CSS  
 **Features:** Dot calendar, habit management, color customization, toast notifications
+
 [GitHub](https://github.com/frogalo/Habit_Rythm)  
 
 #### 🔹 [Gramatyk](https://gramatyk.vercel.app/)  
