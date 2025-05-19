@@ -15,6 +15,13 @@ Unified workplace resource management platform — book desks, rooms, parking, a
 **Features:** Booking system, resource ordering, responsive UI  
 [GitHub](https://github.com/frogalo/tablemate)  
 
+
+#### 🔹 [Habit Rhythm]
+A modern, full-stack habit tracker built with Next.js 15, MongoDB, and NextAuth. Track your habits with a beautiful dot calendar, color customization, and secure authentication.  
+**Tech:** Next.js, MongoDB, NextAuth, Tailwind CSS  
+**Features:** Dot calendar, habit management, color customization, toast notifications
+[GitHub](https://github.com/frogalo/Habit_Rythm)  
+
 #### 🔹 [Gramatyk](https://gramatyk.vercel.app/)  
 Morphological analyzer for Polish. Transforms and parses data from morphology.com.pl using serverless proxies.  
 **Tech:** Next.js, Web Scraping, Serverless Functions  
