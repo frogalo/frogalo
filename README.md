@@ -16,7 +16,7 @@ Unified workplace resource management platform — book desks, rooms, parking, a
 [GitHub](https://github.com/frogalo/tablemate)  
 
 
-#### 🔹 [Habit Rhythm]
+#### 🔹 [Habit Rhythm](https://habit-rythm.jakub-urbanski.me/)  
 A modern, full-stack habit tracker built with Next.js 15, MongoDB, and NextAuth. Track your habits with a beautiful dot calendar, color customization, and secure authentication.  
 **Tech:** Next.js, MongoDB, NextAuth, Tailwind CSS  
 **Features:** Dot calendar, habit management, color customization, toast notifications
