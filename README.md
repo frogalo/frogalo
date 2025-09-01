@@ -6,6 +6,8 @@
 </div>
 
 ---
+  <p>✨ Visit my personal website: <a href="https://jakub-urbanski.me/">jakub-urbanski.me</a></p>
+
 
 ### 🚧 Projects I've Built
 
