@@ -1,8 +1,8 @@
 <div align="center">
   <h2>Hi there! 👋 I'm Jakub Urbański</h2>
   <p>💻 Computer Science graduate from the Polish-Japanese Academy of IT (PJATK)</p>
-  <p>🎓 Currently studying for my MSc at Warsaw University of Technology</p>
-  <p>🚀 IT Administrator | Full-stack Developer | Tech Enthusiast</p>
+  <p>🎓 Currently studying for my Masters at Warsaw University of Technology</p>
+  <p>🚀 Developer | Tech Enthusiast</p>
 </div>
 
 ---
@@ -10,6 +10,18 @@
 
 
 ### 🚧 Projects I've Built
+
+#### 🔹 [F1 2026 Predictions App]
+A modern, mobile-first Progressive Web App (PWA) for making predictions about the 2026 Formula 1 season.
+**Tech:** Next.js, Mobile first, PostreSQL 
+**Features:** Leaderboard, Season Vote, Drag and drop
+[GitHub](https://github.com/frogalo/f1-vote)  
+
+#### 🔹 [Gramatyk](https://gramatyk.vercel.app/)  
+Morphological analyzer for Polish. Transforms and parses data from morphology.com.pl using serverless proxies.  
+**Tech:** Next.js, Web Scraping, Serverless Functions  
+**Features:** Word form analysis, API interface, data visualization  
+[GitHub](https://github.com/frogalo/gramatyk)  
 
 #### 🔹 [TableMate](https://tablemate-gules.vercel.app/)  
 Unified workplace resource management platform — book desks, rooms, parking, and order food or IT gear in one place.  
